@@ -1,0 +1,3323 @@
+abandon 0 1 2
+abate 0 1
+abdicate 0 1
+abduct 0 1
+abet 0 1
+abide 0 1
+abolish 0 1
+abominate 0 1
+abort 0 1
+abound 1 2
+abridge 0 1
+absent 0 1 2
+absolve 0 1 2
+absorb 0 1
+abstain 0 1
+abuse 0 1
+accede 0 1
+accelerate 0 1 2 3 4
+accent 0 1 2
+accept 0 1 2 3
+access 0 1
+acclaim 0 1 2
+accommodate 0 1
+accompany 0 1 3 4
+accomplish 0 1
+accord 0 1 2
+account 0 1 2
+accrete 0 1
+accrue 0 1
+accumulate 0 1 3
+accuse 0 1 2
+accustom 0 1 2
+ace 0 1
+ache 0
+achieve 0 1
+acidify 0 1
+acknowledge 0 1 2 3
+acquaint 0 1 2
+acquiesce 0 1
+acquire 0 1 2 3 4
+acquit 0 1 2
+act 0 1
+activate 0 1
+adapt 0 1 2 3
+add 0 1 2 4 M
+addict 0 1 2
+address 0 1 2
+adhere 0 1 2
+adjourn 0 1
+adjudicate 0 1
+adjust 0 1 2 3 4
+administer 0 1 2
+admire 0 1
+admit 0 1 2
+admonish 0 1 2
+adopt 0 1 2
+adorn 0 1 2
+advance 0 1 2 3 4
+advertise 0 1
+advise 0 1 2
+advocate 0 1 2
+affect 0 1 2
+affiliate 0 1 2
+affirm 0 1 2
+afflict 0 1 2
+afford 0 1 2
+age 0 1 2
+aggravate 0 1 2
+agitate 0 1
+agonize 1 2
+agree 0 1 2
+aid 0 1 2
+ail 0 1
+aim 0 1 2
+air 0 1 2
+airlift 0 1 2 3
+alarm 0 1
+alert 0 1 2
+alienate 0 1 2
+align 0 1 2
+allay 0 1
+allege 0 1 2
+alleviate 0 1
+allocate 0 1 2
+allow 0 1 2
+allude 0 1
+ally 0 1 2
+alter 0 1 2 3
+alternate 0 1 2
+amalgamate 0 1
+amass 0 1 3
+amaze 0 1 2
+amble 0
+ambush 0 1
+amend 0 1 2
+americanize 0 1 2
+amortize 0 1 2
+amount 1 2
+amplify 0 1 2
+amuse 0 1 2
+analyze 0 1
+anchor 0 1
+anger 0 1
+animate 0 1
+announce 0 1 2 3
+annoy 0 1 2
+anoint 0 1
+answer 0 1 2
+antagonize 0 1
+anticipate 0 1
+apologize 0 1 2
+appal 0 1
+appall 0 1
+appeal 0 1 2
+appear 1 2
+appease 0 1
+append 0 1 2
+applaud 0 1 2
+apply 0 1 2 3
+appoint 0 1 2
+appraise 0 1 2
+appreciate 0 1 2 3 4
+apprise 0 1 2
+approach 0 1 2
+appropriate 0 1
+approve 0 1 2
+approximate 0 1
+arbitrage 0 1
+arbitrate 0 1
+arch 0 1
+argue 0 1 2
+arise 1 2
+arm 0 1 2
+arouse 0 1
+arrange 0 1 2 3 4
+arrest 0 1 2
+arrive 1 2 3 4
+articulate 0 1 2
+ascend 0 1
+ascribe 0 1 2
+ask 0 1 2 3
+aspire 0 1
+assail 0 1 2
+assassinate 0 1
+assemble 0 1 2 4
+assert 0 1 2 3
+assess 0 1 2
+assign 0 1 2
+assimilate 0 1 2
+assist 0 1 2
+associate 0 1 2
+assuage 0 1
+assume 0 1 2 3 4
+assure 0 1 2
+astound 0 1
+atone 0 1
+attach 0 1 2
+attack 0 1 2
+attain 0 1
+attempt 0 1
+attend 0 1
+attest 0 1
+attract 0 1 2 3
+attribute 0 1 2
+auction 0 1 2 3 4
+audit 0 1
+audition 0 1 2
+augment 0 1 2
+author 0 1
+authorize 0 1 2 3
+autograph 0 1
+automate 0 1
+avenge 0 1
+aver 0 1
+average 0 1 2 3
+avert 0 1 2 3
+avoid 0 1
+await 1 2 M
+awake 1 2
+awaken 0 1 2
+award 0 1 2
+back 0 1 2
+backfire 1 2
+backpedal 0 1
+backslap 0
+bail 0 1 2
+balance 0 1 2
+balk 0 1
+balloon 0 1 2
+ballyhoo 0 1
+ban 0 1 2
+band 0 1 2 3
+bandy 0 1
+bang 0 1 2
+banish 0 1 2
+bank 0 1 2
+bankroll 0 1 2
+bankrupt 0 1
+bar 0 1 2 3
+barb 0 1
+bare 0 1
+bargain 0 1 2
+barge 0 1
+bark 0 1 2
+barrel 1 2
+barter 0 1 2 3
+base 0 1 2 M
+bash 0 1
+bat 0 1
+bathe 0 1
+batter 0 1 2
+battle 0 1 2
+be 1 2
+beam 0 1
+bear 0 1 2 3
+beat 0 1 2
+become 1 2
+bedevil 0 1 2
+beef 0 1 2 3
+beep 0 1
+befall 0 1
+befriend 0 1
+befuddle 0 1
+beg 0 1 2
+beget 0 1
+begin 0 1 2
+behave 0 1
+behead 0 1
+beleaguer 0 1
+belie 0 1
+believe 0 1
+belittle 0 1
+bellow 0 1 2
+belly-flop 1
+bellyflop 1
+belong 0 1
+bemoan 0 1
+bend 0 1
+benefit 0 1
+bequeath 0 1 2
+berate 0 1 2
+beset 0 1
+besiege 0 1 2
+best 0 1 2
+bestow 0 1 2
+bet 0 1 2 3
+betray 0 1
+better 0 1
+beware 0 1
+bewilder 0 1 2
+bewitch 0 1 2
+bias 1
+bicker 0 1
+bid 0 1 2 3
+bifurcate 0 1
+bike 0 1
+bill 0 1 2 3
+billow 1 2
+bind 0 1 2 3
+bite 0 1
+blab 0 1 2
+black 0 1
+blacken 0 1
+blackmail 0 1
+blame 0 1 2
+blanket 0 1 2
+blare 0 1
+blast 0 1 2
+blaze 1
+bleed 0 1
+blemish 0 1
+blend 0 1 2 3
+bless 0 1 2
+blindfold 0 1 2
+blink 0 1
+block 0 1 2 3
+bloody 0 1
+bloom 0
+blossom 1
+blot 0 1
+blow 0 1 2 3 4 M
+bludgeon 0 1 2
+blunder 0 1
+blunt 0 1
+blur 0 1
+blurt 0 1 2
+board 0 1
+boast 0 1 2
+boat 0
+bode 0 1 2
+bog 0 1
+boil 0 1
+bolster 0 1 2
+bolt 0 1 M
+bomb 0 1 2
+bombard 0 1
+bond 0 1 2 3
+bone 0 1
+boo 0 1 2
+book 0 1 2
+boom 0 1 2
+boost 0 1 2 3 4 M
+bootleg 0 1
+booze 0
+border 1 2
+bore 0 1 2 3
+borrow 0 1 2 3
+botch 0 1
+bother 0 1 2
+bottle 0 1
+bottom 0
+bounce 0 1 2 3 4
+bound 0 1
+bow 0 1
+bowl 0 1
+boycott 0 1
+brace 0 1 2
+brag 0 1
+brake 0 1
+branch 0 1
+brand 0 1 2
+brandish 0 1
+brave 0 1
+brazen 0 1
+breach 0 1
+bread 0 1 2
+break 0 1 2 3
+breathe 0 1 2
+breed 0 1
+brew 0 1 2 3
+bribe 0 1 2 3
+bridge 0 1 2
+brief 0 1 2
+brighten 0 1
+brim 0 1
+bring 0 1 2 3 4 M
+bristle 0 1
+broadcast 0 1 2 3
+broaden 0 1 2 3 4
+broker 0 1 2
+browbeat 0 1 2
+bruise 0 1
+brush 0 1
+buck 0 1
+buckle 0 1 2
+bud 1
+budge 0 1 2
+budget 0 1 2
+buff 0 1
+buffer 0 1 2
+buffet 0 1 2
+build 0 1 2 3 4
+bulge 0 1 2
+bulldoze 0 1
+bully 0 1 2
+bumble 0 1
+bump 0 1 2 3 4 5
+bundle 0 1 2
+bungle 0 1
+buoy 0 1
+burble 0 1
+burden 0 1 2
+burgeon 1
+burglarize 0 1
+burn 0 1 2
+burnish 0 1
+burst 0 1 2 3 4 5
+bury 0 1 2
+bust 0 1 2 3
+butt 0
+buttress 0 1
+buy 0 1 2 3 4
+buzz 0 1
+bypass 0 1
+cadge 0 1
+cake 0 1 2
+calculate 0 1 2
+calibrate 0 1
+call 0 1 2
+calm 0 1 2
+camouflage 0 1 2
+camp 0
+campaign 0 1
+can 0 1 2
+cancel 0 1
+canvass 0 1
+cap 0 1 2
+capitalize 0 1 2
+capitulate 0
+captain 0 1
+caption 0 1 2
+captivate 0 1
+capture 0 1
+care 0 1
+careen 0 1
+caress 0 1
+caricature 0 1 2
+carp 0 1
+carpet 0 1
+carry 0 1 2 3 4
+cart 0 1 2
+carve 0 1 2 3 4
+cascade 1
+cash 0 1
+cast 0 1 2
+castigate 0 1 2
+castle 0
+catalog 0 1
+catalyze 0 1
+catapult 0 1 2
+catch 0 1 2
+categorize 0 1 2
+cater 0 1 2
+cause 0 1
+caution 0 1 2
+cave 1
+cease 0 1 2
+cede 0 1 2
+celebrate 0 1 2
+cement 0 1
+censor 0 1
+center 0 1 2
+centralize 0 1
+certify 0 1 2
+chafe 0 1
+chain 0 1 2 3
+chair 0 1
+chalk 0 1
+challenge 0 1 2
+champion 0 1
+chance 0 1
+change 0 1 2 3
+channel 0 1 2 3
+chant 0 1
+char 0 1
+characterize 0 1 2
+charge 0 1 2 3
+chart 0 1
+charter 0 1 2
+chase 0 1
+chasten 0 1
+chastise 0 1 2
+chat 0 1 2
+chauffeur 0 1
+cheapen 0 1 2
+cheat 0 1 2
+check 0 1 2 A
+cheer 0 1 2
+cherish 0 1
+chew 0 1
+chide 0 1 2
+chill 0 1
+chime 0 1 2
+chip 0 1 2 3
+chisel 0 1 2 4
+choke 0 1 2
+choose 0 1 2 3 4
+chop 0 1 2
+chortle 0 1
+chronicle 0 1
+chuck 0 1
+chuckle 0 1 2
+chug 0 1 2
+churn 0 1 2
+cinch 0 1 2
+circle 0 1 2
+circulate 0 1
+circumvent 0 1
+cite 0 1 2
+claim 0 1 2
+clamber 0
+clamor 0 1
+clamp 0 1
+clang 0 1
+clank 0 1
+clarify 0 1 2
+clash 0 1 2
+class 0 1 2
+classify 0 1 2
+clean 0 1 2
+cleanse 0 1 2
+clear 0 1 2
+click 0 1
+climb 0 1 2 3 4 M
+clinch 0 1
+cling 0 1
+clip 0 1 2
+cloak 0 1 2
+clobber 0 1 2
+clock 0 1 2 3
+clog 0 1 2
+clone 0 1
+close 0 1 2 M
+clothe 0 1 2
+cloud 0 1 2
+club 0 1
+cluster 0 1 2
+clutch 0 1
+clutter 0 1 2
+co-author 0 1 2
+co-sponsor 0 1
+coach 0 1 2
+coast 0 1
+coat 0 1 2
+coauthor 0 1 2
+coax 0 1 2
+cobble 0 1 2
+coddle 0 1 2
+code 0 1
+codify 0 1 2
+coerce 0 1 2
+cohere 0 1
+coin 0 1
+coincide 1
+collaborate 0 1 2
+collapse 0 1 2 3 4
+collect 0 1 2 4
+color 0 1 2
+comb 0 1 2
+combat 0 1 2
+combine 0 1 2 3
+come 0 1 2 3 4 M
+comfort 0 1 2
+command 0 1 2
+commemorate 0 1 2
+commence 0 1 2
+commend 0 1 2
+comment 0 1 2 3
+commercialize 0 1 2
+commission 0 1 2
+commit 0 1 2
+communicate 0 1 2
+commute 0 1 2
+compact 0 1
+compare 0 1 2
+compel 0 1 2
+compensate 0 1 2 3
+compete 0 1 2
+compile 0 1 4
+complain 0 1 2
+complement 1 2
+complete 0 1
+complicate 0 1 2
+compliment 0 1 2
+comply 0 1
+compose 0 1 2
+compound 0 1
+comprehend 0 1
+compress 0 1 2
+comprise 1 2
+compromise 0 1 2
+compute 0 1 2
+computerize 0 1
+con 0 1 2
+conceal 0 1 2
+concede 0 1
+conceive 0 1 2
+concentrate 0 1 2
+concern 0 1 2
+conclude 0 1 2 M
+concoct 0 1 2 3 4
+concur 0 1
+condemn 0 1 2 3
+condition 0 1 2
+condone 0 1
+conduct 0 1
+confer 0 1 2
+confess 0 1 2
+confide 0 1 2
+confine 0 1 2
+confirm 0 1 2
+confiscate 0 1 2
+conflict 0 1
+conform 0 1 2
+confront 0 1 2
+confuse 0 1 2
+congratulate 0 1 2
+conjure 0 1
+connect 0 1 2
+connote 0 1
+conquer 0 1
+consent 0 1
+conserve 0 1
+consider 0 1 2
+consign 0 1 2
+consist 1 2
+console 0 1 2
+consolidate 0 1 2 3
+consort 0 1
+conspire 0 1 2
+constitute 0 1
+constrain 0 1 2 3
+constrict 0 1 2 3 4
+construct 0 1 2 4
+construe 0 1
+consult 0 1 2
+consume 0 1
+consummate 0 1
+contact 0 1
+contain 0 1
+contaminate 0 1 2
+contemplate 0 1 2
+contemporize 0 1
+contend 0 1 2
+content 0 1 2
+contest 0 1
+continue 0 1 2 3
+contract 0 1 2 3 4
+contradict 0 1
+contrast 0 1 2
+contravene 0 1
+contribute 0 1 2
+control 0 1 2
+convene 0 1
+converge 0 1
+convert 0 1 2 3
+convey 0 1 2
+convict 0 1 2
+convince 0 1 2
+convolute 1
+cook 0 1 2
+cool 0 1 3
+cooperate 0 1 2
+coordinate 0 1 2
+cope 0 1
+copy 0 1 2
+copyright 0 1
+corner 0 1
+corral 0 1
+correct 0 1
+correspond 0 1 2
+corroborate 0 1
+cost 1 2 3
+costume 0 1 2
+couch 0 1 2
+cough 0 1 2
+counsel 0 1 2
+count 0 1 2
+countenance 0 1
+counter 0 1 2
+counteract 0 1 3
+counterattack 0 1 2
+counterbalance 0 1
+countersue 0 1 2 3
+countervail 0 1
+couple 0 1 2
+course 0 1
+court 0 1
+cover 0 1 2
+covet 0 1
+cower 0
+crack 0 1 2
+crackle 0
+craft 0 1
+cram 0 1 2
+crane 0 1
+crank 0 1
+crash 0 1
+crave 0 1
+crawl 0 1
+creak 0
+cream 0 1
+create 0 1 2 3 4
+credit 0 1 2
+creep 0 1
+crest 0 1
+criminalize 0 1
+crimp 0 1
+cringe 0
+cripple 0 1 2
+crisscross 0 1
+criticize 0 1 2
+croak 1
+croon 0 1
+crop 0 1 2 3 4
+cross-pollinate 0 1
+cross 0 1 2
+crosspollinate 0 1
+crouch 0
+crow 0 1
+crowd 0 1 2
+crown 0 1 2
+cruise 0 1
+crumble 0 1
+crumple 0 1
+crunch 0 1 2
+crush 0 1 2 3
+cry 0 1 2
+cuff 0 1
+culminate 1 2
+cultivate 0 1
+curb 0 1 2 3 4 M
+cure 0 1 2 3
+curl 0 1 2
+curry 0 1 2
+curse 0 1 2
+curtail 0 1
+cushion 0 1 2
+customize 0 1 2
+cut 0 1 2 3 4
+cycle 0
+dab 0 1 2
+dabble 0 1
+damage 0 1 2
+damn 0 1 2
+damp 0 1
+dampen 0 1 2
+dance 0 1 2
+dangle 0 1
+dare 0 1 2
+darken 0 1
+dash 0 1
+date 0 1 2
+daunt 0 1
+dawdle 0
+dawn 1 2
+dazzle 0 1 2
+deactivate 0 1
+deafen 0 1
+deal 0 1 2
+debate 0 1 2
+debunk 0 1
+debut 0 1
+decease 1
+deceive 0 1 2
+decelerate 0 1
+decentralize 0 1
+decide 0 1 2 3
+decimate 0 1 2
+deck 0 1 2
+declare 0 1 2 3
+declassify 0 1
+decline 0 1 2 3 4 M
+decontaminate 0 1
+decorate 0 1 2
+decrease 0 1 2 3 4
+decree 0 1
+decry 0 1 2
+dedicate 0 1 2
+deduct 0 1 2
+deem 0 1 2
+deemphasize 0 1
+deepen 0 1
+default 1 2
+defeat 0 1
+defect 0 1 2
+defend 0 1 2
+defer 0 1 2
+define 0 1 2
+deflate 0 1
+deflect 0 1
+deform 0 1
+defraud 0 1 2 3
+defuse 0 1
+defy 0 1
+degenerate 0 1 2 3 4
+delay 0 1 2
+delegate 0 1 2
+delete 0 1 2
+deliberate 0
+delight 0 1 2
+delist 0 1 2
+deliver 0 1 2
+delouse 0 1
+delve 0 1
+demand 0 1 2
+demean 0 1
+demilitarize 0 2
+demobilize 0 1
+democratize 0 1
+demolish 0 1 2
+demonize 0 1
+demonstrate 0 1 2
+demote 0 1 2 3
+demur 0 1
+denationalize 0 1
+denominate 0 1 2
+denounce 0 1 2
+denude 0 1 2
+deny 0 1 2
+depart 0 1
+depend 0 1
+depict 0 1 2
+deplete 0 1 2
+deplore 0 1
+deploy 0 1 2
+deport 0 1 2
+depose 0 1
+deposit 0 1 2
+depreciate 1
+depress 0 1 2 3 4
+deprive 0 1 2
+derail 0 1
+deregulate 0 1
+deride 0 1 2
+derive 0 1 2 3 4
+descend 0 1
+describe 0 1 2
+desert 0 1
+deserve 0 1 2
+design 0 1 2 3
+designate 0 1 2
+desire 0 1
+desist 0
+despair 0 1
+despise 0 1
+destabilize 0 1
+destine 1 2
+destroy 0 1 2
+detach 0 1 2
+detail 0 1
+detain 0 1 2
+detect 0 1 2
+deter 0 1 2 3
+deteriorate 0 1 2
+determine 0 1 2 3
+detest 0 1
+dethrone 0 1 2
+detract 0 1 2
+devalue 0 1
+devastate 0 1 2
+develop 0 1 2 3 4
+deviate 0 1
+devise 0 1 2
+devote 0 1 2
+devour 0 1
+diagnose 0 1 2
+diagram 0 1
+dial 0 1
+dicker 0 1 2
+dictate 0 1
+die 1 2
+differ 0 1 2
+differentiate 0 1 2
+dig 0 1 2
+digest 0 1
+dignify 0 1 2
+dilute 0 1 2 3 4 5
+diminish 0 1 2 3 4
+din 0
+dine 0
+dip 0 1 2 3 4
+direct 0 1 2
+disable 0 1
+disagree 0 1 2
+disallow 0 1
+disappear 0 1
+disappoint 0 1 2
+disapprove 0 1
+disarm 0 1
+disassemble 0 1
+disassociate 0 1 2
+disavow 0 1
+disband 0 1
+disburse 0 1 2 3
+discard 0 1 2
+discern 0 1
+discharge 0 1
+discipline 0 1 2
+disclaim 0 1
+disclose 0 1 2 3
+discolor 0 1 2
+discomfit 0 1
+disconnect 0 1 2
+discontinue 0 1
+discount 0 1 2 3 4
+discourage 0 1 2
+discover 0 1 2 3
+discredit 0 1
+discriminate 0 1
+discuss 0 1 2
+disdain 0 1
+disembark 0 1
+disenchant 0 1 2
+disengage 0 1 2
+disgorge 0 1 2
+disgruntle 0 1
+disguise 0 1 2
+disgust 0 1
+dish 0 1 2
+disincline 0 1
+disintegrate 0 1
+dislike 0 1
+dismantle 0 1
+dismay 0 1 2
+dismember 0 1
+dismiss 0 1 2
+disobey 0 1
+disparage 0 1
+dispatch 0 1 2
+dispel 0 1
+dispense 0 1 2
+disperse 0 1
+displace 0 1 2
+display 0 1 2
+displease 0 1
+dispose 0 1 2
+disprove 0 1
+dispute 0 1 2
+disqualify 0 1 2
+disregard 0 1
+disrupt 0 1
+dissatisfy 0 1
+dissect 0 1
+disseminate 0 1
+dissent 0 1
+dissipate 0 1
+dissociate 0 1 2
+dissolve 0 1 2 3
+dissuade 0 1 2
+distance 0 1 2
+distill 0 1 2
+distinguish 0 1 2
+distort 0 1
+distract 0 1 2
+distribute 0 1 2
+disturb 0 1 2
+dither 0
+dive 0 1 2 3 4
+diverge 0
+diversify 0 1 2 A
+divert 0 1 2 3
+divest 0 1 2
+divide 0 1 2
+divorce 0 1 2
+divvy 0 1 2
+dizzy 0 1
+do 0 1 2 3 4
+doctor 0 1
+document 0 1
+dodge 0 1
+dog 0 1
+dole 0 1 2
+dominate 0 1
+don 0 1
+donate 0 1 2
+doom 0 1 2
+dot 0 1 2
+double-cross 0 1
+double 0 1 2 3 4
+doublecross 0 1
+doubt 0 1
+dovetail 1 2
+down 0 1
+downgrade 0 1 2 3 4
+draft 0 1 2 3
+drag 0 1 2
+drain 0 1 2
+drape 0 1 2
+draw 0 1 2
+dread 0 1
+dream 0 1
+dress 0 1 2
+drift 1
+drill 0 1 2 3 4
+drink 0 1 2
+drip 0 1 2 3
+drive 0 1 2
+drool 0 1 2
+drop 0 1 2 3 4 M
+drown 0 1
+drum 0 1
+dry 0 1
+dub 0 1 2
+duck 0 1
+dull 0 1
+dump 0 1 2
+dupe 0 1 2
+duplicate 0 1
+dust 0 1 2
+dwarf 0 1
+dwindle 1 2 3 4
+dye 0 1 2
+earmark 0 1 2
+earn 0 1 2 3
+ease 0 1 2 3 4 M
+eat 0 1
+eavesdrop 0 1
+ebb 1
+echo 0 1
+eclipse 0 1
+economize 0 1
+edge 0 1 2 3 4 5 M
+edit 0 1
+educate 0 1 2
+effect 0 1
+eject 0 1 2
+elaborate 0 1
+elapse 1
+elect 0 1 2
+electrify 0 1
+elevate 0 1 2
+eliminate 0 1 2
+elongate 0 1
+elude 0 1
+emasculate 0 1
+embargo 0 1
+embark 0 1
+embarrass 0 1 2
+embed 0 1 2
+embellish 0 1 2
+embezzle 0 1 2
+embody 1 2
+embolden 0 1 2
+embrace 0 1 2
+embroil 0 1 2
+emerge 0 1
+emigrate 0 1 2
+emit 0 1
+emote 0
+empathize 0 1
+emphasize 0 1 2
+employ 0 1 2
+empower 0 1 2
+empty 0 1 2
+emulate 0 1
+enable 0 1
+enact 0 1 2
+encapsulate 0 1
+encase 0 1 2
+encircle 0 1 2
+enclose 0 1 2
+encompass 0 1
+encounter 0 1
+encourage 0 1 2
+encroach 0 1
+encrust 0 1 2
+encrypt 0 1
+encumber 0 1 2
+end 0 1 2 3 4 M
+endanger 0 1
+endeavor 0 1
+endorse 0 1 2
+endow 0 1 2
+endure 1 2
+energize 0 1 2
+enforce 0 1
+engage 0 1 2
+engineer 0 1 4
+engrave 0 1 2
+engulf 0 1
+enhance 0 1 2 3
+enjoin 0 1 2 3
+enjoy 0 1
+enlarge 0 1 2 3 4
+enlighten 0 1 2 3
+enlist 0 1 2
+enliven 0 1
+enrage 0 1 2
+enrich 0 1 2
+enroll 0 1 2
+ensconce 0 1 2
+ensnarl 0 1 2
+ensue 1 2
+ensure 0 1 2
+entail 0 1
+entangle 0 1 2
+enter 0 1 2 3
+entertain 0 1 2
+entice 0 1 2 3
+entitle 0 1 2
+entomb 0 1 2
+entrance 0 1 2
+entrench 0 1 2
+entrust 0 1 2
+entwine 0 1 2
+envisage 0 1 2
+envision 0 1
+envy 0 1 2
+epitomize 0 1
+equal 1 2
+equate 0 1 2
+equip 0 1 2
+eradicate 0 1
+erase 0 1 2 3
+erect 0 1
+erode 0 1
+err 0
+erupt 0 1 2
+escalate 0 1
+escape 0 1
+eschew 0 1
+escort 0 1 3 4
+espouse 0 1
+establish 0 1 2 3
+estimate 0 1 2
+estrange 1 2
+evacuate 0 1 2
+evade 0 1
+evaluate 0 1
+evaporate 0 1
+even 0 1
+evidence 0 1
+evince 0 1
+eviscerate 0 1
+evoke 0 1 2
+evolve 0 1 2 3
+exacerbate 0 1
+exaggerate 0 1
+examine 0 1
+excavate 0 1
+exceed 0 1 2
+excel 0 1
+exchange 0 1 2 3 4
+excise 0 1 2
+excite 0 1 2
+exclaim 0 1 2
+exclude 0 1 2
+excoriate 0 1 2
+excuse 0 1 2
+execute 0 1 2 3
+exemplify 0 1
+exempt 0 1 2
+exercise 0 1
+exert 0 1 2
+exhale 0 1
+exhaust 0 1
+exhibit 0 1 2
+exhort 0 1 2
+exile 0 1 2
+exist 1 2
+exit 0 1
+exonerate 0 1 2
+exorcise 0 1 2
+expand 0 1 2 3 4
+expect 0 1
+expedite 0 1
+expel 0 1 2
+expend 0 1 2
+experience 0 1
+experiment 0 1 2
+expire 1 M
+explain 0 1 2
+explode 0 1 2 3 4
+exploit 0 1 2
+explore 0 1
+export 0 1 2
+expose 0 1 2
+expound 0 1
+express 0 1 2
+expunge 0 1 2
+extend 0 1 2 3 4
+extinguish 0 1 2
+extort 0 1 2
+extract 0 1 2
+extradite 0 1 2 3
+extrapolate 0 1 2
+extricate 0 1 2
+exude 0 1
+eye 0 1
+eyeball 0 1
+fabricate 0 1 2 3
+face 0 1
+facilitate 0 1
+factor 0 1 2
+fade 0 1 2 3 4
+fail 0 1 2 3
+faint 0
+fake 0 1
+fall 0 1 2 3 4 M
+falsify 0 1
+falter 1
+familiarize 0 1 2
+fan 0 1
+fancy 0 1
+fantasize 0 1
+fare 0 M
+farm 0 1 2
+fascinate 0 1 2
+fashion 0 1
+fasten 0 1 2 3
+fatten 0 1
+fault 0 1 2
+favor 0 1 2
+fawn 0 1
+fax 0 1
+fear 0 1
+feast 0 1
+feature 0 1 2
+feed 0 1 2
+feel 0 1 2
+fell 0 1
+fend 0 1 2
+ferret 0 1
+ferry 0 1 2 3
+fertilize 0 1
+fester 1
+festoon 0 1 2
+fetch 0 1 2 3 4
+feud 0 1 2
+fidget 0 1
+field 0 1
+fight 0 1 2
+figure 0 1 2 3
+filch 0 1 2
+file 0 1 2 3 4
+fill 0 1 2
+film 0 1
+filter 0 1 2
+finagle 0 1 2
+finalize 0 1
+finance 0 1 2
+find 0 1 2 3
+fine-tune 0 1
+fine 0 1 2 3
+finger 0 1 2
+finish 0 1 2 M
+fire 0 1 2
+fireproof 0 1
+firm 0 1 2 3 4
+fish 0 1
+fit 0 1
+fix 0 1 2 3
+fizz 0
+fizzle 1
+flabbergast 0 1
+flame 1
+flank 0 1
+flap 0 1
+flare 1
+flash 0 1 2
+flatten 0 1
+flaunt 0 1
+flaw 0 1
+flay 0 1 2
+flee 0 1
+fleece 0 1 2
+flicker 1
+flinch 0
+fling 0 1 2
+flip 0 1 2
+flirt 0 1
+float 0 1 2
+flock 0 1
+flog 0 1
+flood 0 1 2
+flop 0 1
+flounder 0
+flourish 1 2
+flout 0 1
+flow 1 M
+fluctuate 1 2 3 4 5
+flunk 0 1 2
+flush 0 1 2
+fly 0 1 2
+foam 0 1
+focus 0 1 2
+fog 0 1
+foil 0 1 2
+fold 0 1 2 3 4
+follow 0 1 2
+foment 0 1
+fool 0 1
+foot 0 1
+forbid 0 1 2
+force 0 1 2
+forecast 0 1
+foreclose 0 1
+foresee 0 1
+foreshadow 0 1 2
+forfeit 0 1 2
+forge 0 1 2 4
+forget 0 1
+forgive 0 1 2
+forgo 0 1
+fork 0 1 2 3
+form 0 1 2 3 4
+formalize 0 1
+formulate 0 1 2 3 4
+forsake 0 1
+forward 0 1 2
+foster 0 1
+foul 0 1 2
+found 0 1 2
+founder 1 2
+fraction 0 1
+fracture 0 1
+fragment 0 1
+frame 0 1 2
+franchise 0 1 2
+fray 0 1
+freak 0 1
+free 0 1 2 3
+freeze 0 1 2 3
+frequent 0 1
+fret 0 1
+frighten 0 1 2 3
+fritter 0 1
+frolic 0
+froth 1
+frown 0 1
+frustrate 0 1 2
+fry 0 1
+fudge 0 1
+fuel 0 1 2
+fulfill 0 1
+fume 0 1 2
+function 0 1
+fund 0 1 2
+fundraise 0 2
+funnel 0 1 2 3
+furlough 0 1
+furnish 0 1 2
+furrow 1
+further 0 1
+fuss 0 1
+gain 0 1 2 3 4 M
+gallop 0 1 A
+galvanize 0 1 2
+gamble 0 1
+gape 0 1
+garden 0
+garner 0 1
+gasp 0 1 2
+gather 0 1 2 3
+gauge 0 1 2 3
+gaze 0 1
+gear 0 1 2
+generalize 0 1
+generate 0 1 2 3 4
+gesture 0 1
+get 0 1 2 3 4 M
+gird 0 1 2
+give 0 1 2
+glamorize 0 1 2
+glance 0 1
+glare 0 1
+glaze 0 1
+gleam 0
+glean 0 1 2
+glide 0
+glisten 0
+gloat 0 1
+gloss 0 1
+glow 0 1
+glue 0 1 2
+glut 0 1 2
+go 0 1 2 3 4 M
+gobble 0 1
+gore 0 1 2
+gossip 0 1
+govern 0 1
+grab 0 1
+grace 0 1
+graduate 0 1 2 A
+graft 0 1 2
+grant 0 1 2
+grapple 0 1
+grasp 0 1
+gray 0 1
+graze 0 1 A
+greet 0 1 2 3
+grimace 0 1
+grin 0 1 2
+grind 0 1 2
+grip 0 1 2 3
+gripe 0 1
+groan 0 1
+grok 0 1
+grope 0 1
+gross 0 1
+ground 0 1
+group 0 1 2
+grouse 0 1 2
+grovel 0
+grow 0 1 2 3 4
+growl 0 1
+grumble 0 1 2
+grunt 0 1 2
+guarantee 0 1 2
+guard 0 1 2
+guess 0 1
+guide 0 1 2
+gun 0 1
+gush 0 1
+gut 0 1
+guzzle 0 1
+gyrate 0 1
+hack 0 1 2 3
+haggle 0 1 2
+hail 0 1 2
+halt 0 1 2
+halve 0 1
+ham 0 1
+hammer 0 1 2 3 4
+hamper 0 1 2
+hamstring 0 1
+hand 0 1 2
+handcuff 0 1 2
+handicap 0 1
+handle 0 1 2 3
+hang 0 1 2
+happen 0 1 2
+harass 0 1 2
+harbor 0 1
+harden 0 1
+harm 0 1 2
+harness 0 1
+harp 0 1
+harry 0 1
+harvest 0 1
+hash 0 1
+hasten 0 1
+hatch 0 1
+hate 0 1
+haul 0 1 2 3 4
+haunt 0 1
+have 0 1
+hawk 0 1
+head 0 1 2
+headline 0 1 2
+heal 0 1
+heap 0 1 2
+hear 0 1 2
+hearten 0 1
+heat 0 1 2
+heave 0 1 2
+heckle 0 1
+hedge 0 1 2 3
+heed 0 1
+heighten 0 1
+help 0 1 2
+hemorrhage 0 1
+herald 0 1 2
+herd 0 1 2
+hesitate 0 1
+hew 0 1 2
+hide 0 1 2
+highlight 0 1 2
+hightail 0 1 2
+hinder 0 1 2 3
+hinge 1 2
+hint 0 1 2
+hire 0 1 2
+hiss 0 1
+hit 0 1 2
+hitch 0 1 2
+hoard 0 1
+hobble 0 1 2 M
+hoe 0 1
+hoist 0 1 2
+hold 0 1 2 3 M
+hole 0 1
+holler 0 1
+homer 0
+hone 0 1 2
+honor 0 1 2
+hoodwink 0 1 2
+hook 0 1 2 3
+hop 0 1
+hope 0 1
+hospitalize 0 1
+host 0 1
+hound 0 1
+house 0 1 2
+hover 1 2
+howl 0 1 2
+huckster 0 1
+huddle 0 1
+hug 0 1
+hulk 1
+hum 0 1
+humanize 0 1
+humble 0 1
+hunch 0
+hunt 0 1
+hurl 0 1 2
+hurry 0 1 2
+hurt 0 1 2 3
+hurtle 0 1
+hustle 0 1 A
+hypnotize 0 1
+hypothesize 0 1
+identify 0 1 2
+idle 0 1
+ignite 0 1
+ignore 0 1
+illuminate 0 1
+illustrate 0 1 2
+imagine 0 1 2
+imitate 0 1
+immerse 0 1 2
+immigrate 0 1 2
+impact 0 1 2
+impair 0 1
+impart 0 1 2
+impeach 0 1 2
+impede 0 1 2 3
+impel 0 1 2
+impend 1
+imperil 0 1
+implant 0 1 2
+implement 0 1 2
+implicate 0 1 2
+implore 0 1 2
+imply 0 1 2
+import 0 1 2
+impose 0 1 2
+impound 0 1
+impoverish 0 1
+impress 0 1 2
+imprison 0 1 2 3
+improve 0 1 2 3 4 M
+improvise 0 1
+impugn 0 1
+inaugurate 0 1 2
+incarcerate 0 1 2 3
+inch 0 1 2 3 4 5
+incite 0 1
+incline 0 1
+include 0 1 2
+incorporate 0 1 2 M
+increase 0 1 2 3 4
+incriminate 0 1 2
+incur 0 1 2
+indemnify 0 1 2
+index 0 1 2
+indicate 0 1 2
+indict 0 1 2
+indoctrinate 0 1 2
+induce 0 1 2
+indulge 0 1 2
+industrialize 1
+infect 0 1 2
+infer 0 1 2
+infiltrate 0 1
+inflame 0 1
+inflate 0 1 2 3 4
+inflict 0 1 2
+influence 0 1 2
+inform 0 1 2
+infringe 0 1
+infuriate 0 1
+infuse 0 1 2
+ingest 0 1
+ingratiate 0 1 2
+inhabit 0 1
+inherit 0 1 2
+inhibit 0 1
+initial 0 1
+initiate 0 1 2 3
+inject 0 1 2
+injure 0 1 2
+innovate 0 1
+inquire 0 1
+insert 0 1 2
+insinuate 0 1
+insist 0 1
+inspect 0 1 2
+inspire 0 1 2
+install 0 1 2
+instigate 0 1
+instill 0 1 2
+institute 0 1 2
+instruct 0 1 2
+insulate 0 1 2 3
+insult 0 1
+insure 0 1 2 3 4
+integrate 0 1 2
+intend 0 1 2
+intensify 0 1 2
+intercede 0 1 2
+intercept 0 1
+interconnect 0 1
+interest 0 1 2
+interfere 0 1
+interject 0 1 2
+interlope 0
+intermix 0 1 2
+interpret 0 1 2
+interrogate 0 1 2
+interrupt 0 1
+intersperse 0 1 2
+intertwine 0 1
+intervene 0 1
+interview 0 1 2
+intimate 0 1 2
+intimidate 0 1
+intone 0 1
+introduce 0 1 2
+intrude 0 1 2
+inundate 0 1 2
+invade 0 1
+invalidate 0 1
+invent 0 1
+invert 0 1
+invest 0 1 2
+investigate 0 1 2
+invite 0 1 2
+invoke 0 1
+involve 0 1 2
+irk 0 1 2
+iron 0 1
+irradiate 0 1 2
+irritate 0 1
+isolate 0 1
+issue 0 1 2 3
+itemize 0 1
+jack 0 1
+jail 0 1 2 3
+jam 0 1 2
+jar 0 1
+jell 1
+jeopardize 0 1
+jerk 0 1 2
+jet 1 2
+jettison 0 1
+jiggle 0 1
+jingle 0 1
+jinx 0 1
+jog 0 1
+join 0 1 2
+joke 0 1 2
+jolt 0 1 2
+jostle 0 1
+joust 0 1
+judge 0 1 2 3
+juggle 0 1
+jump 0 1 2 3 4
+junk 0 1
+justify 0 1 2 3 4
+jut 1 2
+juxtapose 0 1 2
+kayo 0 1 2
+keep 0 1 2
+key 0 1 2
+kick 0 1 2
+kid 0 1 2
+kidnap 0 1
+kill 0 1 2
+kindle 0 1
+kiss 0 1 2
+knead 0 1 2
+kneel 0
+knit 0 1 2 4
+knock 0 1 2 3 4 5
+know 0 1 2
+kowtow 0 1
+label 0 1 2
+labor 0 1
+lace 0 1 2
+lack 0 1
+lag 0 1 2
+lambaste 0 1 2
+lament 0 1
+laminate 0 1
+land 0 1 2
+languish 0 1 2
+lap 0 1
+lapse 1
+lash 0 1 2
+last 1 2
+latch 0 1
+laud 0 1 2
+laugh 0 1 2
+launch 0 1
+launder 0 1
+lavish 0 1 2
+lay 0 1 2
+lead 0 1 2 3 4
+leak 0 1
+lean 0 1 2
+leap 0 1 2 3 4
+leapfrog 0 1
+learn 0 1 2
+lease 0 1 2 3 4
+leave 0 1 2
+lecture 0 1 2
+legalize 0 1
+legislate 0 1
+legitimize 0 1
+lend 0 1 2
+lengthen 0 1 2 3 4
+lessen 0 1 2 3 4 M
+let 0 1 2
+level 0 1 2
+leverage 0 1
+levy 0 1
+libel 0 1
+liberalize 0 1
+liberate 0 1 2
+license 0 1 2
+lick 0 1 2
+lie 0 1 2
+lift 0 1 2 3 4 M
+light 0 1
+lighten 0 1 2 3 4
+like 0 1
+liken 0 1 2
+limit 0 1 2
+limp 0
+line 0 1 2
+linger 1 2
+link 0 1 2
+liquidate 0 1
+liquify 0 1
+list 0 1 2
+listen 0 1
+litter 0 1 2
+live 0 1 2 3
+load 0 1 2 3
+loan 0 1 2
+loathe 0 1
+lobby 0 1 2
+localize 0 1
+locate 0 1 M
+lock 0 1 2
+lodge 0 1 2
+log-roll 0
+log 0 1
+long 0 1
+look 0 1 2
+loom 1
+loosen 0 1 2
+loot 0 1 2
+lop 0 1 2
+lord 0 1 2
+lose 0 1 2 3 4 M
+love 0 1
+lower 0 1 2 3 4
+lug 0 1
+lull 0 1 2
+lumber 0 1
+lump 0 1 2
+lunge 0 1
+lurch 0 1
+lure 0 1 2 3
+lurk 0
+magnetize 0 1
+magnify 0 1
+mail 0 1 2
+maintain 0 1 2
+major 0 1
+make 0 1 2 3
+malign 0 1
+man 0 1
+manage 0 1
+mandate 0 1
+maneuver 0 1 2
+manhandle 0 1
+manifest 1 2
+manipulate 0 1 2
+manufacture 0 1 2 3
+map 0 1 2
+mar 0 1 2
+march 0 1 A
+marginalize 0 1
+mark 0 1 2 3
+market 0 1 2 3 4
+marry 0 1 2
+marvel 0 1 2
+mask 0 1 2
+masquerade 0 1
+mass-produce 0 1 2 3
+mass 0
+massage 0 1
+master 0 1
+match 0 1
+mate 0 1 2 A
+materialize 1
+matter 1 2
+mature 1
+maul 0 1
+maximize 0 1
+mean 0 1
+meander 0 1
+measure 0 1 2 3
+meddle 0 1
+mediate 0 1
+meet 0 1
+meld 0 1 2
+mellow 1 2
+melt 0 1
+memorialize 0 1
+memorize 0 1
+mend 0 1
+mention 0 1 2 3
+merchandise 0 1
+merge 0 1 2 3
+merit 0 1
+mesh 0 1 2
+mess 0 1
+metabolize 0 1 2
+miff 0 1 2
+migrate 0 1
+militate 0 1
+milk 0 1 2
+mill 0 1 2
+mimic 0 1
+mince 0 1 2
+mind 0 1
+mine 0 1
+mingle 0 1 2
+miniaturize 0 1
+minimize 0 1
+mint 0 1 2 3 4
+mire 1 2
+mirror 1 2
+miscalculate 0 1 2
+mishandle 0 1
+misinterpret 0 1 2
+mislay 0 1
+mislead 0 1 2
+misplace 0 1
+misrepresent 0 1 2
+miss 0 1 2
+misspend 0 1 2
+misstate 0 1
+mistake 0 1 2
+mistreat 0 1
+misunderstand 0 1
+misuse 0 1
+mitigate 0 1
+mix 0 1 2 3
+moan 0 1
+mobilize 0 1
+mock 0 1 2
+model 0 1 2
+moderate 0 1
+modernize 0 1
+modify 0 1 2 3
+modulate 0 1 2 3
+mold 0 1 2
+mollify 0 1 2
+monitor 0 1 2
+monopolize 0 1
+moonlight 0 1
+mop 0 1 2
+mortgage 0 1 2 3
+motivate 0 1 2 3 4
+motorize 0 1
+mount 0 1 2 3 4 M
+mourn 0 1
+mouth 0 1 2
+move 0 1 2
+mow 0 1
+muck 1
+muddle 0 1
+muddy 0 1
+muffle 0 1 2
+mull 0 1
+multiply 0 1 2 3 4
+mumble 0 1 2
+munch 0 1
+murder 0 1 2
+murmur 0 1 2
+muscle 0 1 2
+muse 0 1
+mushroom 1 2 3 4
+muster 0 1
+mutate 0 1
+mute 0 1
+mutilate 0 1
+mutter 0 1 2
+muzzle 0 1 2
+nag 0 1 2
+nail 0 1
+name-drop 0
+name 0 1 2
+namedrop 0
+narrow 0 1 2 3 4
+nationalize 0 1
+navigate 0 1 2
+near 1 2
+necessitate 0 1
+need 0 1
+negate 0 1
+neglect 0 1
+negotiate 0 1 2
+neighbor 1
+net 0 1 2 3
+network 0 1
+neutralize 0 1
+nibble 0 1
+nick 0 1 3
+nickname 0 1 2
+nod 0 1
+nominate 0 1 2
+normalize 0 1
+nose-dive 1 2 3 4 M
+nosedive 1 2 3 4 M
+notch 0 1 2 3 4 M
+note 0 1 2 3
+notice 0 1
+notify 0 1 2
+nudge 0 1 2 3 4 5 M
+nullify 0 1
+number 1 2
+nurse 0 1
+nurture 0 1
+obey 0 1
+obfuscate 0 1
+object 0 1
+obligate 0 1 2
+oblige 0 1 2
+obliterate 0 1 2
+obscure 0 1 2
+observe 0 1 2 3
+obsess 0 1
+obstruct 0 1
+obtain 0 1 2
+obviate 0 1
+occasion 0 1
+occupy 0 1 2
+occur 1
+offend 0 1 2
+offer 0 1 2 3
+offset 0 1 2
+ogle 0 1
+omit 0 1 2
+ooze 1
+open 0 1 2 3 M
+operate 0 1 2 3 4
+opine 0 1 2
+oppose 0 1
+opt 0 1
+orchestrate 0 1
+ordain 0 1
+order 0 1 2 3
+organize 0 1 2 3 4
+orient 0 1
+originate 0 1 2 4
+orphan 0 1
+oust 0 1 2
+outbid 0 1 2
+outdistance 0 1
+outdo 0 1
+outfit 0 1 2
+outflank 1 2
+outgrow 0 1
+outlast 0 1
+outlaw 0 1
+outline 0 1
+outnumber 1 2 3
+outpace 0 1 2
+outperform 0 1 2
+outrage 0 1
+outrank 0 1
+outsell 0 1 2
+outshine 0 1
+outstrip 0 1 2
+outweigh 0 1
+overarch 1
+overbid 0 1
+overcome 0 1
+overdo 0 1
+overdose 0 1
+overemphasize 0 1 2
+overflow 1 2
+overhang 0 1
+overhaul 0 1 2 3
+overheat 0 1
+overlap 0 1 2
+overlay 0 1 2
+overlook 0 1
+overpay 0 1 2
+overpower 0 1
+overprice 0 1
+overreact 0 1
+override 0 1
+overrule 0 1
+oversee 0 1
+oversell 0 1
+overshadow 0 1
+oversimplify 0 1
+overstate 0 1 2
+overstrain 0 1
+overtake 0 1
+overtax 0 1 2 3
+overthrow 0 1
+overturn 0 1
+overuse 0 1
+overvalue 0 1
+overwhelm 0 1 2
+overwork 0 1
+owe 0 1 2 3
+own 0 1
+pace 0 1
+pacify 0 1
+pack 0 1 2
+package 0 1 2 3
+paint 0 1 2
+pair 0 1 2
+pale 1 2
+palm 0 1
+pamper 0 1
+pan 0 1
+panic 1
+pant 0 1 2
+parachute 0 1 A
+parallel 0 1
+paralyze 0 1
+parcel 0 1 2
+parch 0 1
+pardon 0 1
+pare 0 1 2 3 4
+park 0 1 2
+parry 0 1 2
+part 0 1
+partake 0 1
+participate 0 1
+pass 0 1 2
+paste 0 1 2 3
+pasteurize 0 1
+pat 0 1
+patch 0 1
+patent 0 1
+patrol 0 1
+patronize 0 1
+pattern 0 1 2
+pause 0
+pave 0 1 2
+paw 0 1
+pawn 0 1
+pay 0 1 2 3
+peak 1 2 3
+peal 0 1
+peck 0 1 2 3
+pedal 0 1 2
+peddle 0 1 2 3
+peek 0 1
+peel 0 1
+peer 0 1
+peg 0 1 2
+pen 0 1 2
+penalize 0 1 2
+penetrate 0 1
+people 1 2
+pepper 0 1 2
+perceive 0 1 2
+perch 0 1 2
+perfect 0 1
+perform 0 1 2
+perk 0 1
+permeate 0 1
+permit 0 1 2
+perpetrate 0 1 2
+perpetuate 0 1
+persecute 0 1
+persist 0 1
+personalize 0 1
+persuade 0 1 2
+pertain 0 1
+perturb 0 1
+peruse 0 1
+pervade 0 1
+pester 0 1
+petition 0 1
+phase 0 1
+phone 0 1 2
+photocopy 0 1
+photograph 0 1
+pick 0 1 2 3 4
+picture 0 1
+piece 0 1 2 3
+piggyback 0 1
+pile 0 1 2
+pillory 0 1
+pin 0 1 2
+pinch 0 1 2
+pine 0 1
+ping 0
+pinpoint 0 1
+pioneer 0 1
+pipe 0 1 2 3
+pirate 0 1 2
+pit 0 1 2
+pitch 0 1 2 3
+pivot 0 1 2
+placate 0 1 2
+place 0 1 2
+plague 0 1 2
+plan 0 1 2 3
+plant 0 1 2
+play 0 1 2
+plead 0 1 2
+please 0 1 2
+pledge 0 1 2
+plot 0 1
+plow 0 1 2
+pluck 0 1 2
+plug 0 1 2
+plummet 1 2 3 4 M
+plunge 0 1 2 3 4 M
+plunk 0 1 2
+ply 0 1 2
+poach 0 1 2
+pocket 0 1
+pockmark 0 1
+point 0 1 2
+poise 0 1 2
+poison 0 1 2
+poke 0 1 2
+polarize 0 1
+police 0 1
+polish 0 1 2 3
+politicize 0 1
+poll 0 1 2
+pollinate 0 1
+pollute 0 1
+ponder 0 1
+pontificate 0 1 2
+pool 0 1 2
+pop 0 1 2 3 4 5
+popularize 0 1 2
+populate 0 1 2
+pore 0 1
+port 0 1
+portend 0 1 2
+portray 0 1 2
+pose 0 1 2
+position 0 1 2
+possess 0 1
+post 0 1 2
+postmark 0 1 2
+postpone 0 1 2 3 4
+posture 0 1
+pounce 0 1
+pound 0 1 2
+pour 0 1 2 3
+power 0 1 2
+practice 0 1 2
+praise 0 1 2
+prance 0 1
+pray 0 1 2
+pre-empt 0 1
+preach 0 1
+prearrange 0 1
+precede 0 1 A
+precipitate 0 1
+preclude 0 1 2 3
+predate 1 2
+predetermine 0 1
+predicate 0 1 2
+predict 0 1
+predispose 0 1 2
+prefer 0 1 2
+preform 0 1 2 3 4
+prejudice 0 1 2
+premiere 0 1
+preoccupy 0 1 2
+prepare 0 1 2 3
+prepay 0 1 2 3
+presage 0 1
+prescribe 0 1 2
+present 0 1 2 3
+preserve 0 1 2
+preside 0 1
+press 0 1 2 M
+pressure 0 1 2 M
+presume 0 1 2
+pretend 0 1
+prevail 0 1 2
+prevent 0 1 2 3
+preview 0 1
+prey 0 1
+price 0 1 2
+prick 0 1
+prime 0 1 2
+print 0 1 2
+privatize 0 1
+prize 0 1 2
+probe 0 1 2
+proceed 0 1
+process 0 1 2 3
+proclaim 0 1 2
+prod 0 1 2
+produce 0 1 2 3
+profess 0 1 2 3
+proffer 0 1 2
+profile 0 1
+profit 0 1
+profiteer 0
+program 0 1 2
+progress 1 3 4
+prohibit 0 1 2 3
+project 0 1 2
+proliferate 0
+prolong 0 1 2 3 4
+promise 0 1 2
+promote 0 1 2 3
+prompt 0 1 2
+promulgate 0 1
+pronounce 0 1 2
+proofread 0 1
+prop 0 1 2
+propagandize 0 1
+propel 0 1 2
+propose 0 1 2 3
+proscribe 0 1
+prosecute 0 1 2
+prosper 0
+protect 0 1 2 3
+protest 0 1 2
+prove 0 1 2
+provide 0 1 2
+provision 0 1 2
+provoke 0 1 2
+prune 0 1 2 3
+pry 0 1 2
+publicize 0 1 2
+publish 0 1
+puke 0 1
+pull 0 1 2 3
+pulverize 0 1
+pummel 0 1 2
+pump 0 1 2 3
+punch 0 1
+punish 0 1 2
+purchase 0 1 2 3 4
+purge 0 1 2
+purport 0 1
+purr 0 1 2
+pursue 0 1
+push 0 1 2
+put 0 1 2
+puzzle 0 1 2
+pyramid 0 1
+quack 0
+quadruple 0 1 2 3 4
+qualify 0 1 2
+quantify 0 1
+quarrel 0 1 2
+quash 0 1
+quell 0 1
+query 0 1
+question 0 1 2
+queue 0 1
+quibble 0 1 2
+quicken 1 2 3 4
+quiet 0 1
+quip 0 1 2
+quit 0 1
+quiz 0 1 2
+quote 0 1 2
+race 0 1 2
+rack 0 1 2 3 4
+radio 0 1 2
+rage 0 1 2
+raid 0 1
+rail 0 1
+rain 0 1 2
+raise 0 1 2 3 4 M
+rake 0 1 2 3
+rally 0 1 2 3 4
+ram 0 1 2
+ramble 0 1
+ramp 0 1
+range 1 2 3 4 5
+rank 0 1 2
+rankle 0 1
+rape 0 1
+rarefy 0 1
+rat 0 1
+ratchet 0 1 2 3 4
+rate 0 1 2
+ratify 0 1 2
+ration 0 1 2
+rationalize 0 1 2
+rattle 0 1
+ravage 0 1 2
+rave 0 1
+raze 0 1 2
+re-create 0 1 2 3 4
+re-elect 0 1 2
+re-emerge 0 1
+re-emphasize 0 1 2
+re-enter 0 1 2 3
+re-evaluate 0 1
+reach 0 1 2
+react 0 1 2
+reactivate 0 1
+read 0 1 2 3
+readmit 0 1 2
+reaffirm 0 1
+realign 0 1 2
+realize 0 1 2
+reallocate 0 1 2 3
+reap 0 1 2
+reapportion 0 1 2 3
+reappraise 0 1 2
+rear 0 1
+rearm 0 1
+rearrange 0 1
+reason 0 1
+reassert 0 1 2 3
+reassess 0 1
+reassign 0 1 2
+reassure 0 1 2
+reawaken 0 1 2
+rebel 0 1
+rebound 1 2 3 4
+rebuff 0 1
+rebuild 0 1
+rebuke 0 1 2
+rebut 0 1
+recalculate 0 1 2
+recall 0 1 2 3
+recant 0 1
+recapture 0 1
+recede 0
+receive 0 1 2 3 4
+recess 0 1
+recharge 0 1 2
+recite 0 1
+reckon 0 1 2
+reclaim 0 1 2
+reclassify 0 1 2
+recognize 0 1 2
+recommend 0 1 2 3
+reconcile 0 1 2
+reconsider 0 1
+reconstruct 0 1 2
+record 0 1
+recount 0 1
+recoup 0 1 2
+recover 0 1 2
+recreate 0 1 2 3 4
+recruit 0 1 2 3
+rectify 0 1
+recur 0 1
+recycle 0 1 2
+redden 0 1
+redeem 0 1 2
+redefine 0 1 2
+redeploy 0 1 2
+redesign 0 1 2
+redevelop 0 1 2 3 4
+redirect 0 1 2
+rediscover 0 1
+redistribute 0 1
+redline 0 1 2
+redo 0 1 2 3 4
+redouble 0 1 2 3 4
+redound 0 1
+redress 0 1
+reduce 0 1 2 3 4 M
+reel 0 1 2
+reestablish 0 1
+reevaluate 0 1
+reexamine 0 1
+refashion 0 1
+refer 0 1 2
+refile 0 1 2 3 4
+refinance 0 1 2
+refine 0 1 2
+refit 0 1 2 3
+reflect 0 1 2
+refocus 0 1 2
+reform 0 1 2 3
+reformulate 0 1
+refrain 0 1
+refresh 0 1 2
+refuel 0 1
+refund 0 1 2 3
+refurbish 0 1
+refuse 0 1 2
+refute 0 1
+regain 0 1 2
+regard 0 1 2
+regenerate 0 1
+register 0 1 2 3
+regret 0 1
+regroup 0
+regulate 0 1
+rehabilitate 0 1
+rehash 0 1
+rehearse 0 1
+reign 0 1
+reignite 0 1
+reimburse 0 1 2 3
+reimpose 0 1 2
+rein 0 1
+reinforce 0 1 2
+reinstall 0 1
+reinstate 0 1 2
+reintegrate 0 1 2
+reintroduce 0 1 2
+reinvigorate 0 1
+reiterate 0 1 2
+reject 0 1 3
+rejoin 0 1 2
+rejuvenate 0 1
+rekindle 0 1
+relate 0 1 2 3
+relax 0 1
+relay 0 1 2
+release 0 1 2
+relegate 0 1 2
+relent 0 1
+relieve 0 1 2
+relinquish 0 1
+relish 0 1
+relive 0 1
+relocate 0 1 2 3
+rely 0 1 2
+remain 1 2 3
+remake 0 1 2 3
+remand 0 1 2
+remark 0 1 2
+remedy 0 1 2
+remember 0 1 2
+remind 0 1 2
+remodel 0 1
+remove 0 1 2
+remunerate 0 1 2
+rename 0 1 2
+render 0 1 2
+rendezvous 0 1
+renege 0 1
+renegotiate 0 1 2
+renew 0 1
+renounce 0 1 2
+renovate 0 1
+rent 0 1 2 3 4
+reopen 0 1 2 3
+reorganize 0 1 2 3 4
+reorient 0 1
+repaint 0 1 2
+repair 0 1
+repatriate 0 1 2
+repay 0 1 2 3
+repeal 0 1
+repeat 0 1 2 3
+repel 0 1 2
+replace 0 1 2
+replenish 0 1 2
+replicate 0 1
+reply 0 1 2
+report 0 1 2
+reposition 0 1 2
+repossess 0 1
+represent 0 1
+repress 0 1
+reprint 0 1
+reproduce 0 1
+reprove 0 1 2
+repudiate 0 1
+repute 0 1 2
+request 0 1 2
+require 0 1 2
+requisition 0 1
+reschedule 0 1 2 3
+rescind 0 1
+rescue 0 1 2
+research 0 1
+resell 0 1 2 3 4
+resemble 1 2
+resent 0 1 2
+reserve 0 1 2 3
+reset 0 1 2
+reshape 0 1
+reshuffle 0 1
+reside 0 1
+resign 0 1 2
+resist 0 1
+resolve 0 1 2 3
+resonate 1 2
+resort 0 1
+respect 0 1 2
+respond 0 1 2
+rest 0 1 2
+restart 0 1
+restate 0 1 2 3 4
+restore 0 1 2
+restrain 0 1 2 3
+restrict 0 1 2
+restructure 0 1 2 3
+resubmit 0 1 2 3
+result 1 2
+resume 0 1 2
+resurface 0 1
+resurge 0
+resurrect 0 1
+resuscitate 0 1
+retail 0 1 2 3 4
+retain 0 1 3
+retake 0 1
+retaliate 0 1
+retard 0 1
+retest 0 1 2
+rethink 0 1
+retire 0 1
+retool 0 1 2 3
+retrace 0 1
+retract 0 1
+retrain 0 1 2
+retreat 0 1 2 3 4 A
+retrench 0
+retrieve 0 1 2 3
+retrofit 0 1 2
+retry 0 1
+return 0 1 2 3 4 M
+reunite 0 1 2 3
+rev 0 1 2
+revalue 0 1 2
+revamp 0 1
+reveal 0 1 2 3
+revel 0 1
+reverberate 1
+reverse 0 1
+revert 1 2
+review 0 1 2
+revise 0 1 2 3
+revisit 0 1
+revitalize 0 1
+revive 0 1
+revoke 0 1
+revolutionize 0 1
+revolve 1 2
+reward 0 1 2
+rework 0 1
+rewrite 0 1
+rhyme 0 1 2
+rid 0 1 2
+ride 0 1
+ridicule 0 1 2
+riff 0 1
+rig 0 1
+right 0 1
+rile 0 1
+rim 0 1 2
+ring 0 1 2
+rip 0 1
+ripen 0 1
+ripple 0 1
+rise 1 2 3 4 M
+risk 0 1
+rival 0 1 2
+rivet 0 1 2
+roam 0 1
+roar 0 1 2
+rob 0 1
+rock 0 1
+rocket 1 2 3 4 M
+roil 0 1
+roll 0 1 2
+romance 0 1
+romanticize 0 1
+romp 0 1
+roost 0
+root 0 1 2
+rot 0 1
+rotate 0 1 2 3
+rough 0 1
+round 0 1
+route 0 1 2
+row 0 1
+rub 0 1 2 3
+ruffle 0 1
+ruin 0 1 2
+rule 0 1 2 3
+rumble 0
+ruminate 0 1
+rumor 0 1 2
+run 0 1 2 3 4 M
+rupture 0 1
+rush 0 1 2
+rust 1
+rusticate 0 1
+sabotage 0 1 2
+sack 0 1
+sacrifice 0 1 2
+saddle 0 1 2
+safeguard 0 1 2
+sag 1 2 3 4
+sail 0 1
+salt 0 1 2
+salute 0 1 2
+salvage 0 1 2
+salve 0 1
+sample 0 1
+sanction 0 1
+sandwich 0 1 2
+sanitize 0 1
+sap 0 1 2
+satisfy 0 1 2
+saturate 0 1 2
+save 0 1 2 3
+savor 0 1
+say 0 1 2 3
+scale 0 1 2 3 4 5
+scamper 0
+scan 0 1 2
+scandalize 0 1 2
+scare 0 1 2 3
+scarf 0 1
+scatter 0 1 2
+schedule 0 1 2 3
+scoff 0 1
+scold 0 1 2
+scoop 0 1 2
+scoot 0 1 A
+score 0 1 2
+scorn 0 1
+scotch 0 1
+scour 0 1 2
+scout 0 1
+scowl 0 1 2
+scramble 0 1 3 M
+scrap 0 1
+scrape 0 1 2 3
+scratch 0 1 2 3
+scream 0 1 2
+screech 0 1 2
+screen 0 1 2
+screw 0 1
+scribble 0 1 2
+scrimp 0 1
+scrounge 0 1
+scrutinize 0 1 2
+scurry 0
+scuttle 0 1 2
+seal 0 1
+search 0 1
+seat 0 1 2
+secede 0 1
+second-guess 0 1
+secure 0 1 2 3
+seduce 0 1 2
+see 0 1 2
+seed 0 1 2
+seek 0 1 2
+seem 1 2
+seep 1
+seethe 0 1 2
+segment 0 1 2
+segregate 0 1 2
+seize 0 1 2
+select 0 1 2 3
+self-destruct 0
+sell 0 1 2 3 4
+send 0 1 2 3 4 5
+sense 0 1 2
+sensitize 0 1 2
+sentence 0 1 2 3
+separate 0 1 2
+sequester 0 1
+serve 0 1 2
+service 0 1
+set 0 1 2
+settle 0 1 2 3 4
+sever 0 1
+sew 0 1 2 3 4
+shadow 0 1
+shag 0 1
+shake 0 1 2
+shape 0 1 2
+share 0 1 2
+sharpen 0 1 2
+shatter 0 1 2 3
+shave 0 1 2 3
+shear 0 1 2 3
+shed 0 1 2 3 4 M
+shell 0 1 2 3
+shelter 0 1 2 3
+shelve 0 1
+shepherd 0 1
+shield 0 1 2
+shift 0 1 2 3
+shimmer 0 1
+shine 0 1 2
+ship 0 1 2 3
+shirk 0 1
+shiver 1
+shock 0 1 2
+shoehorn 0 1 2
+shoot 0 1 2 3 4 5
+shop 0 1 2 3 4
+shore 0 1
+short-circuit 0 1
+short 0 1 2
+shorten 0 1 2 3 4
+shoulder 0 1
+shout 0 1 2
+shove 0 1 2
+show 0 1 2
+shower 0 1 2
+shred 0 1 2 3
+shrink 0 1 2 3 4
+shrivel 0 1 2 3 4
+shroud 0 1 2
+shrug 0 1 2
+shudder 1 2
+shuffle 0 1 A
+shun 0 1
+shut 0 1 2 M
+shutter 0 1
+shuttle 0 1 2 3
+shy 0 1
+side 0 1 2
+sidestep 0 1
+sidetrack 0 1
+sift 0 1
+sigh 0 1 2
+sign 0 1 2 3
+signal 0 1 2
+signify 0 1
+silence 0 1
+silt 0 1
+simmer 0 1
+simplify 0 1
+simulate 0 1 2
+sing 0 1 2
+single 0 1 2 3
+sink 0 1 2 3 4 5
+sip 0 1 2
+siphon 0 1 2
+sit 1 2
+situate 0 1 2
+size 0 1 2
+sizzle 0
+sketch 0 1 2
+skew 0 1
+ski 0 1
+skid 0 1 2 3 4
+skim 0 1 2
+skimp 0 1
+skip 0 1
+skipper 0 1
+skirmish 0 1
+skirt 0 1 2
+skyrocket 1 2 3 4 M
+slack 1 2
+slacken 0 1
+slam 0 1 2
+slap 0 1 2
+slash 0 1 2 3 4
+slate 0 1 2
+slaughter 0 1
+slay 0 1
+sleep 0 1 2
+slice 0 1 2
+slide 0 1 2 3 4 M
+slim 0 1
+slip 0 1 2 3 4 M
+slither 0
+sliver 0 2
+slog 0 1
+slope 0
+slosh 0 1 2
+slow 0 1 3 4 M
+slump 0 1 2 3 4
+smack 0 1
+smart 1 2
+smash 0 1
+smell 0 1 2
+smile 0 1 2
+smoke 0 1
+smolder 0
+smooth 0 1 2
+smother 0 1 2
+smuggle 0 1 2 3
+snag 0 1 2
+snake 0 1
+snap 0 1 2 3 4
+snare 0 1 2
+snatch 0 1 2
+sneak 0 1 2 3
+sniff 0 1 2
+snipe 0 1
+snivel 0
+snoop 0 1
+snore 0
+snort 0 1
+snowball 1 2
+snub 0 1
+soak 0 1 2
+soar 1 2 3 4 M
+sob 0
+sober 0 1 2
+socialize 0 1
+sock 0 1 2
+soften 0 1
+soil 0 1
+solicit 0 1 2
+solidify 0 1
+solve 0 1 2
+soothe 0 1
+sort 0 1 2
+sound 0 1 2 3
+sour 0 1 2
+sow 0 1
+span 0 1
+spar 0 1
+spare 0 1 2
+spark 0 1 2
+spawn 0 1
+speak 0 1 2
+spearhead 0 1
+specialize 0 1
+specify 0 1
+speculate 0 1
+speed 0 1
+spell 0 1 2
+spend 0 1 2 3 4
+spew 0 1 2
+spike 0 1
+spill 0 1 2
+spin 0 1 2 3 4
+spiral 0 1 2
+spirit 1
+spit 0 1 2
+splash 0 1 2
+split 0 1 2
+spoil 0 1
+sponsor 0 1
+spook 0 1 2
+sport 0 1
+spot 0 1 2 3
+spotlight 0 1
+spout 0 1
+sprawl 0 1 2
+spray 0 1 2
+spread 0 1 2 3 M
+spring 1 2
+sprinkle 0 1 2
+sprout 0 1 2
+spruce 0 1
+spur 0 1 2
+spurn 0 1
+spurt 1 2 3 4
+sputter 0
+spy 0 1
+squander 0 1
+square 0 1 2 3
+squat 0 1 2
+squeak 0 1
+squeegee 0 1
+squeeze 0 1 2 3 4
+squelch 0 1
+squint 0 1
+squirm 0 1
+stab 0 1 2 3
+stabilize 0 1 2
+stack 0 1 2
+staff 0 1 2
+stage 0 1
+stagger 0 1
+stagnate 1
+stain 0 1
+stake 0 1 2 3
+stalk 0 1
+stall 0 1
+stamp 0 1 2
+stampede 0 1 2
+stanch 0 1
+stand 0 1 2
+standardize 0 1
+staple 0 1 2
+star 1 2 3
+stare 0 1
+start 0 1 2 3
+startle 0 1
+starve 0 1 2
+stash 0 1 2
+state 0 1 2 3
+station 0 1 2
+stave 0 1
+stay 0 1 2 3
+steady 0 1
+steal 0 1 2
+steam 0 1
+steer 0 1 2
+stem 0 1 2
+step 0 1 2 3
+sterilize 0 1
+stew 0 1
+stick 0 1 2
+stifle 0 1
+stimulate 0 1 2
+sting 0 1 2
+stink 0 1
+stipulate 0 1
+stir 0 1 2 3
+stitch 0 1 2 3 4
+stock 0 1 2
+stockpile 0 1 2
+stoke 0 1
+stomach 0 1
+stomp 0 1
+stone 0 1
+stonewall 0
+stop 0 1 2
+store 0 1 2
+storm 0 1
+stow 0 1 2
+straddle 0 1
+strafe 0 1
+straighten 0 1 2
+strain 0 1 2
+strand 0 1
+strangle 0 1
+strap 0 1 2
+stray 0 1
+streak 0
+stream 0 1 M
+streamline 0 1
+strengthen 0 1 2 3 4
+stress 0 1 2
+stretch 0 1 2 3 4
+strew 0 1 2
+stride 0
+strike 0 1 2 3 A
+string 0 1
+strip 0 1 2
+strive 0 1
+stroke 0 1 2
+stroll 0 1
+structure 0 1 2
+struggle 0 1 2
+stub 0 1 2
+stud 0 1 2
+study 0 1
+stuff 0 1 2
+stumble 0 1
+stun 0 1 2
+stunt 0 1
+style 0 1 2
+stymie 0 1
+subcontract 0 1 2
+subdue 0 1
+subject 0 1 2
+sublet 0 1 2
+submit 0 1 2 3
+subordinate 0 1 2
+subpoena 0 1
+subscribe 0 1
+subside 1 2
+subsidize 0 1
+substantiate 0 1
+substitute 0 1 3 4
+subsume 1 2
+subtitle 0 1 2
+subtract 0 1 2
+subvert 0 1 2
+succeed 0 1 2
+succumb 0 1
+suck 0 1
+sue 0 1 2 3
+suffer 0 1
+suffice 0
+suggest 0 1 2
+suit 0 1 2
+sum 0 1 2
+summarize 0 1 2
+summon 0 1 2
+superimpose 0 1 2
+supersede 0 1
+supervise 0 1
+supplement 0 1 2
+supply 0 1 2
+support 0 1
+suppose 0 1 2
+suppress 0 1
+surface 0 1 2
+surge 1 2 3 4 M
+surmount 0 1 2
+surpass 0 1
+surprise 0 1 2
+surrender 0 1 2
+surround 0 1 2
+survey 0 1 2 3
+survive 0 1 2
+suspect 0 1 2
+suspend 0 1 2 3
+sustain 0 1
+swallow 0 1
+swamp 0 1 2
+swap 0 1 2 3 4
+swathe 0 1 2
+sway 0 1 2
+swear 0 1 2
+sweat 0 1 2
+sweep 0 1 2 3
+sweeten 0 1 2 3
+swell 0 1 2 3 4
+swerve 0 1
+swim 0 1 2
+swindle 0 1 2
+swing 0 1 2 3 4
+switch 0 1 2 3
+swivel 0 1
+swoop 0 1
+symbolize 1 2
+sympathize 0 1
+synchronize 0 1 2
+syndicate 0 1 2
+synthesize 0 1 2 3 4
+taboo 0 1
+tack 0 1 2 3 4
+tackle 0 1 2
+tag 0 1 2
+tail 0 1
+tailor 0 1 2
+taint 0 1 2
+take 0 1 2 3 4
+talk 0 1 2
+tally 0 1
+tame 0 1 2
+tamper 0 1
+tan 0 1 2
+tangle 0 1 2
+tango 0 1
+tank 0
+tap 0 1 2 3
+tape 0 1 2
+taper 1
+tar 0 1 2
+target 0 1 2
+tarnish 0 1
+taste 0 1 2
+taunt 0 1
+tax 0 1 2 3
+teach 0 1 2
+team 0 1 2
+tear 0 1 2
+tease 0 1 2
+teem 0 1
+teeter 1
+telegraph 0 1 2
+telephone 0 1 2
+televise 0 1
+tell 0 1 2
+temper 0 1
+tempt 0 1 2 3
+tend 0 1 2
+tender 0 1 2
+term 0 1 3
+terminate 0 1 2 M
+terrify 0 1 2
+test 0 1 2
+testify 0 1 2
+tether 0 1 2
+thank 0 1 2
+theorize 0 1
+thin 0 1
+think 0 1 2
+thrash 0 1 2
+threaten 0 1 2
+thrill 0 1
+thrive 1 2
+throw 0 1 2
+thrust 0 1 2
+thumb 0 1 2
+thunder 0 1 2
+thwart 0 1
+tick 0 1
+ticket 0 1 2
+tie 0 1 2 3
+tighten 0 1
+tilt 0 1 2
+time 0 1 2
+tinker 0 1
+tip 0 1 2
+tiptoe 0
+tire 0 1
+title 0 1 2
+toast 0 1
+toil 0 1
+tolerate 0 1
+tone 0 1
+toot 0 1
+top 0 1 2
+topple 0 1 2 3 4
+torch 0 1
+torment 0 1 2
+torpedo 0 1
+torture 0 1 2
+toss 0 1
+tot 0 1 2 3 4
+total 0 1 2
+tote 0 1 2 3 4
+totter 1
+touch 0 1 2 3
+toughen 0 1
+tour 0 1
+tout 0 1 2 3
+tower 0 1
+toy 0 1
+trace 0 1 2
+track 0 1 2 3
+trade 0 1 2 3 4
+traduce 0 1
+trail 0 1
+train 0 1 2
+traipse 0 1
+tramp 0 1
+trample 0 1
+transact 0 1
+transcribe 0 1
+transfer 0 1 2 3
+transform 0 1 2 3
+translate 0 1 2 3
+transmit 0 1 2
+transmogrify 0 1 2 3
+transplant 0 1 2 3
+transport 0 1 2 3
+trap 0 1 2
+trash 0 1
+traumatize 0 1 2
+travel 0 1
+tread 0
+treat 0 1 2 3
+treble 0 1
+trek 0 1
+tremble 1
+trend 1 2
+trespass 0 1
+trick 0 1
+trickle 0 1 2
+trigger 0 1 2 3
+trim 0 1 2 3 4
+trip 0 1
+triple 0 1 2 3 4
+triumph 0 1 2
+trivialize 0 1
+trot 0 1 A
+trouble 0 1 2
+trudge 0 1
+trump 0 1
+trumpet 0 1 2
+trundle 0 1
+trust 0 1 2
+try 0 1 2
+tuck 0 1 2
+tug 0 1 2
+tumble 0 1 2 3 4 M
+tune 0 1 2
+turn 0 1 2 3 M
+tutor 0 1 2
+twiddle 0 1
+twin 0 1
+twist 0 1
+twitch 0 1
+type 0 1
+typify 0 1
+unblock 0 1
+uncover 0 1 3
+undercut 0 1
+underestimate 0 1 2
+undergo 1 2
+underlie 0 1
+underline 0 1
+undermine 0 1
+underperform 0 1
+underpin 0 1
+underprice 0 1
+underscore 0 1 2
+undersell 0 1
+understand 0 1 2
+understate 0 1 2
+undertake 0 1 2
+undervalue 0 1 2
+underwrite 0 1
+undo 0 1
+undulate 0 1
+unearth 0 1
+unfold 0 1
+unhinge 0 1 2
+unify 0 1 2 3
+unionize 0 1
+unite 0 1 2 3
+unleash 0 1
+unload 0 1 2 3
+unlock 0 1 2
+unmask 0 1
+unnerve 0 1 2
+unplug 0 1
+unravel 0 1
+unroll 0 1
+unsettle 0 1 2
+unveil 0 1 2
+unwind 0 1 2
+up 0 1
+update 0 1
+upgrade 0 1 2 3 4
+uphold 0 1
+uproot 0 1
+upset 0 1 2
+urge 0 1 2
+use 0 1 2
+usher 0 1 2
+usurp 0 1
+utilize 0 1
+utter 0 1
+vacate 0 1
+vacation 0 1
+vacillate 0 1
+vacuum 0 1 2
+validate 0 1
+value 0 1 2
+vanish 1
+vary 0 1 2 3 4 5
+vault 0 1 2 3 4
+veer 0 1
+veil 0 1
+vend 0 1
+vent 0 1
+ventilate 0 1
+venture 0 1
+verge 1 2
+verify 0 1
+vest 0 1 2
+veto 0 1 2
+vex 0 1
+vibrate 0 1
+victimize 0 1 2
+vie 0 1 2
+view 0 1 2
+vindicate 0 1 2
+violate 0 1
+visit 0 1
+visualize 0 1 2
+vitiate 0 1
+voice 0 1 2
+void 0 1
+volunteer 0 1 2
+vomit 0 1
+vote 0 1 2 A
+vow 0 1
+wad 0 1 2
+waddle 0
+wade 0 1
+waffle 0 1
+waft 0 1
+wag 0 1
+wage 0 1 2
+wail 0 1
+wait 0 1 2 M
+waive 0 1 2
+wake 0 1 2
+walk 0 1 2 A
+wall 0 1 2
+wallow 0 1
+wander 0 1
+wane 1
+want 0 1 2 3 4
+war 0 1
+ward 0 1 2
+warm 0 1
+warn 0 1 2
+warrant 0 1
+wash 0 1 2 3 4
+waste 0 1 2
+watch 0 1
+water 0 1
+wave 0 1 2
+waver 0 1
+wax 0 1 2
+weaken 0 1 2 3 4
+wean 0 1 2
+wear 0 1
+weather 0 1
+weave 0 1 2
+wed 0 1 2
+wedge 0 1 2
+weep 0 1
+weigh 0 1 2 3
+weight 0 1 2
+welcome 0 1
+weld 0 1
+whack 0 1 2
+wheel 0 1
+wheeze 0 1 2
+whip 0 1 2
+whipsaw 0 1
+whirl 1 2
+whirr 0
+whisk 0 1 2
+whisper 0 1 2
+whistle 0 1 2
+whittle 0 1 2 3 4
+wholesale 0 1 2 3 4
+whoop 0 1 2
+whoosh 0
+widen 0 1 2 3 4
+widow 0 1
+wield 0 1 2 3
+wiggle 0 1
+will 0 1 2
+win 0 1 2 3 4
+wind 0 1 2
+wink 0 1 2
+wipe 0 1 2 3
+wire 0 1 2
+wish 0 1 2
+withdraw 0 1 2
+wither 0 1
+withhold 0 1 2
+withstand 0 1
+witness 0 1
+womanize 0
+wonder 0 1
+woo 0 1
+word 0 1
+work 0 1 2 3 4
+worry 0 1 2
+worsen 0 1 2
+wound 0 1 2
+wow 0 1 2
+wrack 0 1
+wrangle 0 1 2
+wrap 0 1 2
+wreak 0 1 2
+wreck 0 1 2
+wrench 0 1 2
+wrest 0 1 2
+wrestle 0 1 2
+wriggle 0 1
+wring 0 1 2
+write 0 1 2 3 4
+writhe 1
+wrong 0 1
+yank 0 1 2
+yell 0 1 2
+yelp 0 1 2
+yield 0 1 2
+zap 0 1
+zero 0 1
+zip 0
+zone 0 1 2
+zoom 1 2 3 4 M

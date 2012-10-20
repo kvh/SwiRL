@@ -1,0 +1,5 @@
+SwiRL THANKS file
+
+This package includes Eugen Charniak's parser and Xavier Carreras' AdaBoost
+ML package. Many thanks to both for making their code available!
+

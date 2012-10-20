@@ -1,0 +1,137 @@
+Welcome to SwiRL.
+
+SwiRL is free GPL software. Please see the file COPYING for details.
+==============================================================================
+
+What is it?
+-----------
+
+SwiRL is a Semantic Role Labeling (SRL) system constructed on top of the full 
+syntactic analysis of text. The syntactic analysis is performed using Eugene 
+Charniak's parser (included in this package). SwiRL trains one classifier for
+each argument label using a rich set of syntactic and semantic features. 
+The classifiers are learned using one-vs-all AdaBoost classifiers, using
+Xavier Carreras' AdaBoost software (included in this package).
+
+When tested on the CoNLL evaluation data, SwiRL obtains an F1 measure of
+77.44 on the WSJ testing section and of 66.65 on the Brown testing section.
+The execution time is slightly less than 3 seconds/sentence (includes 
+full parsing and SRL).
+
+Author
+------
+
+Mihai Surdeanu, but this package includes also Eugene Charniak's parser and
+Xavier Carreras' AdaBoost software.
+
+Installation
+------------
+
+Note of advice: this code is known to work on many flavors of Linux (Slack, 
+Debian, and variants of these) using gcc >= 3.0 AND gcc <= 4.1.0. With anything
+else, you're on your own...
+
+The usual ./configure; make; make install. See INSTALL for more details on this
+process. Additionally, after completing this process, copy the required model
+directories (model_charniak for the parser and model_swirl for the SRL part)
+wherever you prefer.
+
+Optional step:
+Before running make install, but after make, it is a good idea to run 
+make test_brown. This tests SwiRL on the Brown testing section from the CoNLL
+evaluation data. Make sure you obtain the same F1 measure as the one reported
+in the NEWS file. If you want to check SwiRL on the WSJ testing section run
+make test_wsj. Note: make test_brown takes about 30 minutes, make test_wsj
+takes about 2 hrs.
+
+Command line
+------------
+
+(a) Parsing a complete file:
+
+To parse a complete file the command line is the following:
+	swirl_parse_classify \
+		<SRL model directory> \
+		<charniak's parser model directory> \
+		<file to parse>
+For example, if you would like to run SwiRL on the WSJ test section, use:
+	swirl_parse_classify model_swirl model_charniak testing/test.wsj.input
+
+The SRL model directory contains the set of SRL classifiers (one per argument
+label). The parser model directory contains the data required by Charniak's 
+parser.
+
+SwiRL outputs the processed propositions at the standard output in CoNLL 
+format.
+
+The input file accepts four possible formats, depending on the amount of
+information available:
+(a) 0 (word ne pred)+
+    where each token has lexical and NE information, plus a boolean flag
+    to indicate if it is (1) or is not (0) a predicate. See 
+    testing/test.wsj.input for an example of this format.
+(b) 1 (word pos ne)+
+    where each token has lexical, POS and NE information. Predicates are 
+    detected on the fly.
+(c) 2 (word ne)+
+    where each token has lexical and NE information. POS tags and predicates
+    are detected on the fly. This is probably the most common format to be
+    used through the API.
+(d) 3 (word)+
+    where each token has only lexical information. POS tags and predicates
+    are detected on the fly. NE information is not used, so the results using
+    this format will be slightly worse than usual.
+
+
+(b) Running the interactive shell:
+
+If you would like to test SwiRL without generating the input file, you can
+with the following command:
+	swirl_parse_classify \
+		<SRL model directory> \
+		<charniak's parser model directory>	
+
+This opens an interactive shell, where you can type your sentence.
+Note: the input format must be in one of the above four classes.
+
+
+(c) Retraining SwiRL:
+
+make train MODEL_DIR=<directory where to store your model files>
+
+Alternatively, if you want to train on a different corpus, run:
+
+make train \
+	MODEL_DIR=<directory where to store your model files>
+	WORD_FILE=<CoNLL-like word file> \
+	NE_FILE=<CoNLL-like NE file> \
+	CHARNIAK_FILE=<CoNLL-like file with Charniak-generated syntax> \
+	PROP_FILE=<CoNLL-like file with propositions>
+
+Note: training on the full CoNLL corpus takes up to 2-3 days!
+
+Note: The AdaBoost learner is configured by default with the best parameters
+I observed on the CoNLL development data: 1000 rounds of boosting and decision
+trees of depth 3. Feel free to play with these parameters if you believe they
+should be changed.
+
+Note: In the current configuration SwiRL requires about 5GB of disk space 
+and 4GB of RAM to train. If you don't have these resources available you
+can reduce the number of positive and negative examples to be used by the
+trainer in src/lib/Constants.h: POSITIVE_EXAMPLES_MAX_COUNT and 
+NEGATIVE_EXAMPLES_MAX_COUNT. 
+
+(d) Using the API:
+
+The API is defined in the file src/lib/Swirl.h (or 
+${prefix}/include/swirl/Swirl.h after make install). Two methods are important:
+Swirl::initialize(), which fully initializes SwiRL, and Swirl::parse(), which
+parses an input sentence. The output is a Tree object, which is basically 
+a fully-parsed sentence, where every syntactic node has attached a list of 
+semantic roles for the various predicates in the sentence. The argument list
+for a given node can be accessed with Tree::getPredictedArguments().
+
+You can take a look at src/bin/swirlParseAndClassify.cc to see how the API
+is to be used.
+
+
