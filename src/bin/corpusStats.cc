@@ -9,8 +9,8 @@
 #include "Lexicon.h"
 #include "Parameters.h"
 #include "CharUtils.h"
-#include "Assert.h"
-#include "Wn.h"
+#include "AssertLocal.h"
+#include "Wnet.h"
  
 using namespace std;
 using namespace srl;

@@ -9,10 +9,10 @@
 #include "Parameters.h"
 #include "CharUtils.h"
 #include "Lexicon.h"
-#include "Assert.h"
+#include "AssertLocal.h"
 #include "Exception.h"
 #include "Logger.h"
-#include "Wn.h"
+#include "Wnet.h"
  
 using namespace std;
 using namespace srl;

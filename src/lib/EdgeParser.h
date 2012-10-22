@@ -8,7 +8,7 @@
 #include "Lexicon.h"
 #include "CharUtils.h"
 #include "Exception.h"
-#include "Assert.h"
+#include "AssertLocal.h"
 
 #ifndef EDGE_PARSER_H
 #define EDGE_PARSER_H

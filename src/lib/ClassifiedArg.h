@@ -6,7 +6,8 @@
 #ifndef CLASSIFIED_ARG_H
 #define CLASSIFIED_ARG_H
 
-#include <values.h>
+#include <limits.h>
+#include <float.h>
 #include "Wide.h"
 
 namespace srl {
@@ -23,7 +24,7 @@ class ClassifiedArg
 
   ClassifiedArg() {
     phrase = NULL;
-    conf = MINDOUBLE;
+    conf = DBL_MIN;
     prob = 0.0;
   }
 

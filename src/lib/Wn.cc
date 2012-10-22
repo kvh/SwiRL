@@ -6,9 +6,9 @@
 
 #include <wn.h>
 
-#include "Wn.h"
+#include "Wnet.h"
 #include "StringMap.h"
-#include "Assert.h"
+#include "AssertLocal.h"
 
 using namespace std;
 using namespace srl;

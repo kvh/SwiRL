@@ -9,7 +9,7 @@
 #include "Constants.h"
 #include "Parameters.h"
 #include "CharUtils.h"
-#include "Assert.h"
+#include "AssertLocal.h"
 #include "Exception.h"
 #include "Logger.h"
 #include "Swirl.h"

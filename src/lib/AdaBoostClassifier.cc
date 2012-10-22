@@ -1,6 +1,6 @@
 
 #include "AdaBoostClassifier.h"
-#include "Assert.h"
+#include "AssertLocal.h"
 
 #include "fvinput.h"
 

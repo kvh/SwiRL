@@ -7,7 +7,8 @@
 #include <string>
 #include <vector>
 #include <list>
-#include <values.h>
+#include <limits.h>
+#include <float.h>
 
 #include "RCIPtr.h"
 #include "Wide.h"

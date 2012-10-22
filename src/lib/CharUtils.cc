@@ -4,7 +4,7 @@
 #include <ctype.h>
 
 #include "CharUtils.h"
-#include "Assert.h"
+#include "AssertLocal.h"
 
 using namespace std;
 using namespace srl;

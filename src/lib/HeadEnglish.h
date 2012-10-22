@@ -2,7 +2,7 @@
 #include <string>
 
 #include "RCIPtr.h"
-#include "Assert.h"
+#include "AssertLocal.h"
 #include "Wide.h"
 
 #ifndef ENGLISH_HEAD_H

@@ -1,5 +1,5 @@
 #include "Tree.h"
-#include "Assert.h"
+#include "AssertLocal.h"
 #include "CharUtils.h"
 #include "Head.h"
 #include "Lexicon.h"
